@@ -4,6 +4,8 @@ Mouse Tooltip Translator **Chrome Extension** using `Vue` + `Vuetify`
 
 ![Chrome Web Store](google.png)
 
+**`ocr`, `tesseract`, `opencv`, `pdfjs`, `vuetify`**
+
 ## Features
 
 - Hover or select (highlight) on text to translate
